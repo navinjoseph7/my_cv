@@ -39,7 +39,7 @@ I am a computer science engineer passionate about problem-solving and programmin
 
 ## Education
 
-- Bachelor of Technology, Computer Science
+###Bachelor of Technology, Computer Science
 - Viswajyothi College, APJAKTU University Kerala
 - August 2018 - June 2022
 - Basics of C, C++, Python, PHP, Java, HTML, Software Engineering technologies, OODP, and other concepts.
