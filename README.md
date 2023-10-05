@@ -12,30 +12,13 @@ I am a computer science engineer passionate about problem-solving and programmin
 
 ## Projects
 
-### Acebook
-- [GitHub](https://github.com/navinjoseph7/Acebook)
-- Developed a Facebook clone in a team of six within two weeks.
-- Tech Stack: MongoDB, ExpressJS, React, NodeJS, CSS.
-
-### StreamSeeker
-- [GitHub](https://github.com/navinjoseph7/StreamSeeker)
-- Created a web app for movie/series search and streaming platforms listing in a team of four within two weeks.
-- Tech Stack: MongoDB, ExpressJS, React, NodeJS, Material UI, CSS.
-
-### Makersbnb
-- [GitHub](https://github.com/navinjoseph7/Makersbnb)
-- Built a clone of Airbnb in a team of four within two weeks.
-- Tech Stack: HTML, Python, Python Flask, MySQL.
-
-### Profile Website
-- [GitHub](https://github.com/navinjoseph7/Profile-Website)
-- Personally created a website showcasing my details in 2 days.
-- Tech Stack: HTML, CSS.
-
-### Bank Test
-- [GitHub](https://github.com/navinjoseph7/Bank-Test)
-- Completed a technical test for core bank features under a tight deadline.
-- Tech Stack: Python, Flask.
+| Project Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| [Acebook](https://github.com/navinjoseph7/Acebook) | Created a Facebook clone with features for users to create an account, make posts, comment, and like. | MongoDB, ExpressJS, React, NodeJS, CSS |
+| [StreamSeeker](https://github.com/navinjoseph7/StreamSeeker) | Built a web app for users to search for movies/series and view available platforms for streaming. | MongoDB, ExpressJS, React, NodeJS, Material UI, CSS |
+| [Makersbnb](https://github.com/navinjoseph7/Makersbnb) | Developed a clone of Airbnb where users can create accounts, list spaces, and make bookings. | HTML, Python, Python Flask, MySQL |
+| [Profile Website](https://github.com/navinjoseph7/Profile-Website) | Personally created a website showcasing my details. | HTML, CSS |
+| [Bank Test](https://github.com/navinjoseph7/Bank-Test) | Completed a technical test for core bank features under a tight deadline. | Python, Flask |
 
 ## Experience
 
